@@ -1,0 +1,57 @@
+.class1 {
+    color: rgb(214, 24, 113);
+    background-color: rgb(245, 156, 171);
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(252, 96, 156);
+    border-radius: 20px;
+}
+.class2 {
+    color: rgb(162, 0, 255);
+    background-color: rgb(212, 163, 245);
+    width: 200px;
+    height: 100px;
+    text-align:center;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(161, 13, 247);
+    border-radius: 20px;
+}
+.class3{
+    color: rgb(4, 117, 19);
+    background-color: rgb(159, 245, 156);
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(39, 189, 25);
+    border-radius: 20px;
+}
+.class4 {
+    color: blue;
+    background-color: rgb(115, 202, 253);
+    width: 200px;
+    height: 100px;
+    text-align:center;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(13, 87, 247);
+    border-radius: 20px;
+}
+button{
+    color: beige;
+    margin-left: 10px;
+    padding: 20px;
+    border-radius: ;
+    border: 10px outset hotpink;
+    background-color: rgb(146, 10, 78);
+}
+button:hover{
+    color: rgb(236, 19, 153);
+    cursor: pointer;
+    background-color: rgb(252, 226, 244);
+}

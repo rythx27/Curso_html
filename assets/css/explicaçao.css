@@ -1,0 +1,23 @@
+/* seletor universal = aplica para todas as tags */
+*{background-color: purple;}
+
+/* seletor de tags = so aplica nas tags selecionadas */
+span {margin: 2px;}
+
+/* seletor de classes = so aplica nas tags q possuem classes */
+.classTeste{padding: auto;}
+
+/* seletor de id = so aplica na tag que possui o id */
+#idSenha1{border-radius: 2px;}
+
+/* ap */
+.elemetos{
+/* padding espaçamento interno */
+    padding: 20px;
+/* altura */
+    height: 10px;
+/* largura */
+    width: 10px;
+    margin: 10px 20px;
+    border-radius: 10px 5px 3px 6px;
+}
